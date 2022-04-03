@@ -1,0 +1,15 @@
+.grandpa{
+    border:  2px solid #851515;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.grandpa div,.grandpa-main{
+    border:  2px solid #bb4848;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 10px;
+}

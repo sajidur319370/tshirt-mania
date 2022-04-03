@@ -1,0 +1,8 @@
+.tshirt-item{
+    width: 300px;
+    border: 2px solid rgb(39, 38, 38);
+}
+.tshirt-item img{
+    width: 100%;
+    height: 70%;
+}
